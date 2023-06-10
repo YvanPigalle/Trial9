@@ -1,0 +1,15 @@
+C:\Users\NoKatana\Desktop\home\9th\bin\Debug\net6.0\9th.exe
+C:\Users\NoKatana\Desktop\home\9th\bin\Debug\net6.0\9th.deps.json
+C:\Users\NoKatana\Desktop\home\9th\bin\Debug\net6.0\9th.runtimeconfig.json
+C:\Users\NoKatana\Desktop\home\9th\bin\Debug\net6.0\9th.dll
+C:\Users\NoKatana\Desktop\home\9th\bin\Debug\net6.0\9th.pdb
+C:\Users\NoKatana\Desktop\home\9th\obj\Debug\net6.0\9th.csproj.AssemblyReference.cache
+C:\Users\NoKatana\Desktop\home\9th\obj\Debug\net6.0\9th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoKatana\Desktop\home\9th\obj\Debug\net6.0\9th.AssemblyInfoInputs.cache
+C:\Users\NoKatana\Desktop\home\9th\obj\Debug\net6.0\9th.AssemblyInfo.cs
+C:\Users\NoKatana\Desktop\home\9th\obj\Debug\net6.0\9th.csproj.CoreCompileInputs.cache
+C:\Users\NoKatana\Desktop\home\9th\obj\Debug\net6.0\9th.dll
+C:\Users\NoKatana\Desktop\home\9th\obj\Debug\net6.0\refint\9th.dll
+C:\Users\NoKatana\Desktop\home\9th\obj\Debug\net6.0\9th.pdb
+C:\Users\NoKatana\Desktop\home\9th\obj\Debug\net6.0\9th.genruntimeconfig.cache
+C:\Users\NoKatana\Desktop\home\9th\obj\Debug\net6.0\ref\9th.dll
